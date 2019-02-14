@@ -1,10 +1,20 @@
 {
-  "name": "nodebb-theme-quickstart",
-  "version": "0.0.0",
-  "description": "Enter a description here",
+  "name": "nodebb-theme-bd",
+  "version": "0.0.1",
+  "description": "bd theme",
   "main": "theme.less",
-  "keywords": [
-
-  ],
-  "license": "MIT"
+  "keywords": [],
+  "license": "MIT",
+  "author": {
+    "name": "Your Name",
+    "email": "brucvv@gmail.com",
+    "url": "http://bydeath.github.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bydeath/nodebb-theme-quickstart.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bydeath/nodebb-theme-quickstart.git/issues"
+  }
 }

@@ -1,12 +1,12 @@
 {
   "name": "nodebb-theme-bd",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "bd theme",
   "main": "theme.less",
   "keywords": [],
   "license": "MIT",
   "author": {
-    "name": "Your Name",
+    "name": "brucvv",
     "email": "brucvv@gmail.com",
     "url": "http://bydeath.github.io/"
   },

@@ -1,0 +1,9 @@
+.bd-anchor:link {
+	font-size: 20px;
+	color: maroon;
+	text-decoration: none;
+}
+
+.bd-anchor:hover {
+	color: green;
+}
